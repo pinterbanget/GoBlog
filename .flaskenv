@@ -1,2 +1,2 @@
 FLASK_APP=goblog.py
-FLASK_ENV=development
+FLASK_DEBUG=1
